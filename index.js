@@ -7,6 +7,9 @@ function doubleValues(num) {
 doubleValues([1, 2, 3]);
 doubleValues([2, 4, 6]);
 
+console.log("  -----------------------------------");
+console.log("  ++++++++++ Next Exercise ++++++++++");
+
 // Exercise 02
 
 const onlyEvenValue = (num) => {
